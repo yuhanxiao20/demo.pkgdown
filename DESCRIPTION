@@ -1,6 +1,6 @@
 Package: demo.pkgdown
 Title: A Demo of How to Use pkgdown
-Version: 0.0.0.9000
+Version: 0.0.1
 Authors@R: 
     person("Yuhan", "Xiao", , "yuhanxiao20@gmail.com", role = c("aut", "cre"))
 Description: This package demonstrates the basics of using pkgdown.
